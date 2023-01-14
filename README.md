@@ -24,8 +24,8 @@ of it.
 `conda create --name <env> --file <path to requirements.txt>`
 5. In case you have python already in your system, you can also plainly install GitPython
 following [this link](https://gitpython.readthedocs.io/en/stable/intro.html)
-6. cd rufus
-7. python rufus.py -p <absolute path to any git repo of interest>
+6. `cd rufus`
+7. `python rufus.py -p <absolute path to any git repo of interest>`
 
 
 
