@@ -22,6 +22,10 @@ of it.
 3. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you do not have python
 4. Create env using requirements.txt
 `conda create --name <env> --file <path to requirements.txt>`
-5. cd rufus
-6. python rufus.py -p <absolute path to any git repo of interest>
+5. In case you have python already in your system, you can also plainly install GitPython
+following [this link](https://gitpython.readthedocs.io/en/stable/intro.html)
+6. cd rufus
+7. python rufus.py -p <absolute path to any git repo of interest>
+
+
 
